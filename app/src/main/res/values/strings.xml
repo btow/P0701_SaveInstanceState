@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">P0701_SaveInstanceState</string>
+    <string name="count">Count</string>
+    <string name="on_create">onCreate</string>
+    <string name="on_destroy">onDestroy</string>
+    <string name="on_pause">onPause</string>
+    <string name="on_restart">onRestart</string>
+    <string name="on_restore_instance_state">onRestoreInstanceState</string>
+    <string name="on_post_resume">onPostResume</string>
+    <string name="on_resume">onResume</string>
+    <string name="on_save_instance_state">onSaveInstanceState</string>
+    <string name="on_start">onStart</string>
+    <string name="on_stop">onStop</string>
+    <string name="toast_count">Count =</string>
+    <string name="count_out_state">count</string>
+    <string name="on_retain_custom_non_configuration_instance">onRetainCustomNonConfigurationInstance</string>
+    <string name="get_last_lustom_non_configuration_instance">getLastCustomNonConfigurationInstance</string>
+    <string name="my_object_is">myObject =</string>
+</resources>
